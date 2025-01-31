@@ -3,13 +3,14 @@
 * {
     box-sizing: border-box;
     font-family: roboto;
+    color: aliceblue;
 }
 html {
-    background-color: aquamarine;
+    background-image:  url("./Images/titleScreenBackground.png");
 }
 
 .main-header {
-    background-image: url("./Images/titleScreenBackground.png");
+    background-color: rgba(0,0,0,0.2);
     background-size: cover;
     background-blend-mode: multiply;
 
@@ -17,8 +18,9 @@ html {
 }
 
 .header-text {
-    color: aliceblue;
+    
     font-size: 1.5em;
     margin: 10px;
+    margin-bottom: 20px;
 }
 
