@@ -3,6 +3,6 @@ html {
 }
 
 .main-header {
-    background-image: url("Images/titleScreenBackground.png");
+    background-image: url("./Images/titleScreenBackground.png");
     background-size: cover,
 }
