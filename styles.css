@@ -24,8 +24,10 @@ html {
 }
 
 .logo {
-    width:200px;
-    height:150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
     
 }
 
