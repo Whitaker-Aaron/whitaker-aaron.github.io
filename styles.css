@@ -6,6 +6,10 @@ html {
     background-image: url("./Images/titleScreenBackground.png");
     background-size: cover;
     background-blend-mode: multiply;
-    background-color: rgba(0,0,0,0.2);
 
+
+}
+
+.header-text {
+    color: aliceblue;
 }
