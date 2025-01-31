@@ -22,6 +22,14 @@ html {
     margin-bottom: 20px;
 }
 
+p {
+    text-align: center;
+}
+
+h1 { 
+    text-align: center;
+}
+
 .logo {
     display: block;
     margin-left: auto;
