@@ -2,7 +2,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: 'Roboto';
+    font-family: Roboto;
 }
 html {
     background-color: aquamarine;
@@ -19,4 +19,5 @@ html {
 .header-text {
     color: aliceblue;
     font-size: 1.5em;
+    margin: 10px;
 }
