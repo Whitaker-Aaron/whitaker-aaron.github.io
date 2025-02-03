@@ -33,8 +33,9 @@ p {
 }
 
 .description{
-    font-size: 16px;
-    margin: 170px;
+    font-size: 18px;
+    margin-left: 170px;
+    margin-right: 170px;
 }
 
 h1 { 
