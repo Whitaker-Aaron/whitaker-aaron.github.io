@@ -7,6 +7,8 @@
 }
 html {
     background-image:  url("./Images/titleScreenBackground.png");
+    margin:0;
+    padding:0;
 }
 
 .main-header {
