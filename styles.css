@@ -27,8 +27,9 @@ p {
 }
 
 .resources a{
+    margin:0 auto;
+    display:block;
     text-align: center;
-    margin: 10px;
 }
 
 h1 { 
