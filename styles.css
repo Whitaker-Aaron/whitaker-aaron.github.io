@@ -26,6 +26,11 @@ p {
     text-align: center;
 }
 
+.resources a{
+    text-align: center;
+    margin: 10px;
+}
+
 h1 { 
     text-align: center;
 }
