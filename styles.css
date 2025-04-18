@@ -30,7 +30,7 @@ html {
 }
 
 p {
-    text-shadow: 2px, 2px, #000;
+    text-shadow: #fc0 1px 0 10px;
     text-align: center;
 }
 
