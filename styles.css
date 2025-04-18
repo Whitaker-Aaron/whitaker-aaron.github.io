@@ -30,7 +30,7 @@ html {
 }
 
 p {
-    text-shadow: rgb(255, 100, 209) 1px 0 10px;
+
     text-align: center;
 }
 
@@ -54,6 +54,7 @@ p {
 }
 
 h1 { 
+    text-shadow: rgb(255, 100, 209) 1px 0 10px;
     text-align: center;
 }
 
