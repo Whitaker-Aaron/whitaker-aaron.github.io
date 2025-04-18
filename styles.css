@@ -25,7 +25,7 @@ html {
     
     font-size: 1.5em;
     margin: 10px;
-    text-shadow: 2px, 2px, #000;
+    text-shadow: #fc0 1px 0 10px;
     margin-bottom: 20px;
 }
 
